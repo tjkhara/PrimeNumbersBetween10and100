@@ -1,0 +1,6 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\bin\Debug\PrimeNumbersBetween10and100.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\bin\Debug\PrimeNumbersBetween10and100.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\bin\Debug\PrimeNumbersBetween10and100.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\obj\Debug\PrimeNumbersBetween10and100.csprojResolveAssemblyReference.cache
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\obj\Debug\PrimeNumbersBetween10and100.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\PrimeNumbersBetween10and100\PrimeNumbersBetween10and100\obj\Debug\PrimeNumbersBetween10and100.pdb
